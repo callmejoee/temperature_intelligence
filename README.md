@@ -1,4 +1,4 @@
-# Shape, Cut, Heat
+# HeatTrace
 
 Search a place in the United States, drop pins to draw a shape, and pick a past hour. The shape is cut into parts small enough to send. FortyGuard returns the heat inside each part, and the map draws those parts back together.
 
